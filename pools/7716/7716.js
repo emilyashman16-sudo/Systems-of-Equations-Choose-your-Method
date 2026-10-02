@@ -1,0 +1,19 @@
+window.CPPool7716Init = function() { cp.model['7716Data']={
+};cp.poolSlideResources['pool7716']={
+};
+cp.poolSlideVideoResources['pool7716']={
+};
+cp.model.data['7716']={
+pqs:[],
+gqs:[],
+sqs:[],
+rgqs:[],
+rsqs:[],
+hasCC:true
+};
+cp.poolResources["7716Images"]=[];
+cp.poolResources["7716Videos"]=[
+];
+cp.poolResources["7716SlideVideos"]=[
+];
+}
